@@ -1,6 +1,6 @@
 ﻿## 研修用アカウントの確認方法
 1. 事前にお渡ししたSkillableのURLにアクセスし、**Signin** をクリックします。
-![Lab overview.](1.png)
+![Lab overview.](0.png)
 
 2. サインイン画面で事前にお渡ししたSkillableのID/パスワードを入力してサインインします。
 ![Lab overview.](2.png)
