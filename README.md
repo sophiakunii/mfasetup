@@ -8,17 +8,20 @@
 3. アカウントのセキュリティ保護画面で、**次へ** をクリックします。
 ![Lab overview.](a1.png)
 
-4. アカウントのセキュリティ保護画面で、表示されるQRコードを Microsoft Authenticator アプリから読み取り、**次へ** をクリックします。
-![Lab overview.](11.png)
+4. アカウントのセキュリティ保護画面で、**画像をスキャンできませんか？** をクリックします。
+![Lab overview.](a2.png)
 
 5. Microsoft Authenticator アプリに届いた通知画面に、PC画面上に表示されている記載の番号を入力します。
-![Lab overview.](12.png)
+![Lab overview.](a3.png)
 
-6. 登録が完了したら **次へ** をクリックします。
-![Lab overview.](13.png)
+6. アカウントのセキュリティ保護画面で、秘密鍵の文字列をコピーし、**次へ** をクリックします。
+![Lab overview.](a4.png)
 
-7. **完了** をクリックします。
-![Lab overview.](14.png)
+7. TOTP Token Generator 画面で、Your Secret Key 欄に前の手順でコピーした秘密鍵の文字列を貼り付けます。
+最下段に表示される数字をコピーします。
+![Lab overview.](a4.png)
+
+
 
 8. サインインの状態を維持しますか？画面で、**いいえ** をクリックします。すると多要素認証の設定とサインインが完了します。
 ![Lab overview.](7.png)
@@ -29,7 +32,7 @@
 
 
 
-﻿## 【参考】Microsoft Authenticator を利用する場合の多要素認証の設定方法
+﻿##【参考】Microsoft Authenticator を利用する場合の多要素認証の設定方法
 1. ユーザー名とパスワードを利用してサインインを行うと次のような画面が登場します。**次へ** をクリックします。
 ![Lab overview.](0.png)
 
