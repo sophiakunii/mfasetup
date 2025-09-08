@@ -16,6 +16,7 @@
 
 6. 新しいタブを開き、**https://totp.danhersam.com/** にアクセスします。
 TOTP Token Generator 画面で、Your Secret Key 欄に前の手順でコピーした秘密鍵の文字列を貼り付けます。
+※なお秘密鍵の文字列は紛失するとサインインが二度とできなくなるので控えておいてください。
 最下段に表示される数字をコピーします。
 ![Lab overview.](a4.png)
 
