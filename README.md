@@ -23,11 +23,8 @@ TOTP Token Generator 画面で、Your Secret Key 欄に前の手順でコピー�
 8. 前の手順でコピーした文字列を貼り付け、**次へ** をクリックします。
 ![Lab overview.](a5.png)
 
-9. 登録が完了したら **次へ** をクリックします。
+9. **完了** をクリックします。
 ![Lab overview.](a6.png)
-
-10. **完了** をクリックします。
-![Lab overview.](14.png)
 
 11. サインインの状態を維持しますか？画面で、**いいえ** をクリックします。すると多要素認証の設定とサインインが完了します。
 ![Lab overview.](7.png)
@@ -54,7 +51,7 @@ TOTP Token Generator 画面で、Your Secret Key 欄に前の手順でコピー�
 ![Lab overview.](13.png)
 
 7. **完了** をクリックします。
-![Lab overview.](14.png)
+![Lab overview.](a6.png)
 
 8. サインインの状態を維持しますか？画面で、**いいえ** をクリックします。すると多要素認証の設定とサインインが完了します。
 ![Lab overview.](7.png)
